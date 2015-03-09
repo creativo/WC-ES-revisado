@@ -1,0 +1,7 @@
+# Ignorarlo todo
+*
+
+# Excepto los archivos de idioma en castellano de Woocommerce
+!.gitignore
+!woocommerce*-es_ES.*
+
