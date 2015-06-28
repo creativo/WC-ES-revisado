@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.8\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-06-25 08:21+0100\n"
-"PO-Revision-Date: 2015-06-25 12:14+0100\n"
+"PO-Revision-Date: 2015-06-25 13:06+0100\n"
 "Last-Translator: liban <legionmanonegra@gmail.com>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -4696,7 +4696,7 @@ msgstr ""
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-accounts.php:61
 msgid "View Order"
-msgstr "Ver pedido"
+msgstr "Ver Pedido"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:62
 msgid "Endpoint for the My Account &rarr; View Order page"
@@ -4714,7 +4714,7 @@ msgstr "Endpoint para Mi cuenta &rarr; Página de edición de Cuenta"
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-accounts.php:79
 msgid "Edit Address"
-msgstr "Editar dirección"
+msgstr "Editar Dirección"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:80
 msgid "Endpoint for the My Account &rarr; Edit Address page"
@@ -4723,7 +4723,7 @@ msgstr "Endpoint para Mi cuenta &rarr; Página de edición de dirección"
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-accounts.php:88
 msgid "Lost Password"
-msgstr "¿Perdió su contraseña?"
+msgstr "Contraseña Perdida"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:89
 msgid "Endpoint for the My Account &rarr; Lost Password page"
@@ -4966,17 +4966,17 @@ msgstr ""
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-emails.php:73
 msgid "\"From\" Name"
-msgstr "\"From\" nombre"
+msgstr "\"Remitente\" nombre"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-emails.php:83
 msgid "\"From\" Email Address"
-msgstr "\"From\" Dirección de email"
+msgstr "\"Remitente\" Dirección de Email"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-emails.php:97
 msgid "Email Template"
-msgstr "Plantilla de email"
+msgstr "Plantilla de Email"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-emails.php:97
@@ -4994,7 +4994,7 @@ msgstr ""
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-emails.php:100
 msgid "Header Image"
-msgstr "Imagen de cabecera"
+msgstr "Imagen de Cabecera"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-emails.php:101
@@ -5008,7 +5008,7 @@ msgstr ""
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-emails.php:110
 msgid "Email Footer Text"
-msgstr "Texto del pie del email"
+msgstr "Texto del Pie del Email"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-emails.php:111
@@ -5078,7 +5078,7 @@ msgstr "Opciones generales"
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:53
 msgid "Base Location"
-msgstr "Ubicación base"
+msgstr "Localización Base"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:54
@@ -5092,12 +5092,12 @@ msgstr ""
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:63
 msgid "Selling Location(s)"
-msgstr "Ubicación(es) de Venta"
+msgstr "Localización(es) de Venta"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:64
 msgid "This option lets you limit which countries you are willing to sell to."
-msgstr "Esta opción le pemite limitar a qué países está dispuesto a vender.."
+msgstr "Esta opción le pemite limitar a qué países está dispuesto a vender."
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:72
@@ -5107,13 +5107,13 @@ msgstr "Vender a todos los países"
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:73
 msgid "Sell to specific countries only"
-msgstr "Vender solo a países específicos"
+msgstr "Vender solo a países concretoos"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:78
 #: includes/admin/settings/class-wc-settings-shipping.php:146
 msgid "Specific Countries"
-msgstr "Países específicos"
+msgstr "Países Concretos"
 
 #: includes/admin/settings/class-wc-settings-general.php:87
 msgid "Default Customer Address"
@@ -5152,7 +5152,7 @@ msgstr "Geolocalizar dirección"
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:102
 msgid "Store Notice"
-msgstr "Aviso de la tienda"
+msgstr "Aviso de la Tienda"
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:103

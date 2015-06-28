@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.10\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-06-25 09:58+0100\n"
-"PO-Revision-Date: 2015-06-25 12:13+0100\n"
+"PO-Revision-Date: 2015-06-26 11:20+0100\n"
 "Last-Translator: liban <legionmanonegra@gmail.com>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -5745,7 +5745,7 @@ msgstr "Total:"
 #: includes/wc-cart-functions.php:247 templates/order/order-details.php:126
 #: templates/order/order-details.php:130
 msgid "(Includes %s)"
-msgstr "(Incluye %s)"
+msgstr "(%s Incluído)"
 
 # @ woocommerce
 #. Plugin Name of the plugin/theme
@@ -10817,9 +10817,9 @@ msgid ""
 "Note: Shipping and taxes are estimated%s and will be updated during checkout "
 "based on your billing and shipping information."
 msgstr ""
-"Nota: los gastos de envío e IVA son estimados%s y se actualizarán durante el "
-"proceso de pago tomando como referencia la dirección de facturación y de "
-"envío proporcionadas."
+"Nota: Los gastos de envío y el IVA son estimados%s y se actualizarán durante "
+"el proceso de finalización de compra tomando como referencia la información "
+"de facturación y de envío proporcionadas."
 
 # @ woocommerce
 #: templates/cart/cart.php:29 templates/emails/admin-cancelled-order.php:23
