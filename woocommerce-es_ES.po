@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.10\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-06-25 09:58+0100\n"
-"PO-Revision-Date: 2015-06-29 11:18+0100\n"
+"PO-Revision-Date: 2015-06-29 12:20+0100\n"
 "Last-Translator: Auriana <legionmanonegra@gmail.com>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -22,12 +22,12 @@ msgstr ""
 # @ woocommerce
 #: i18n/countries.php:18
 msgid "Afghanistan"
-msgstr "Afghanistan"
+msgstr "Afganistán"
 
 # @ woocommerce
 #: i18n/countries.php:19
 msgid "&#197;land Islands"
-msgstr "&#197;land Islands"
+msgstr "Islas &#197;land"
 
 # @ woocommerce
 #: i18n/countries.php:20
@@ -37,7 +37,7 @@ msgstr "Albania"
 # @ woocommerce
 #: i18n/countries.php:21
 msgid "Algeria"
-msgstr "Algeria"
+msgstr "Argelia"
 
 # @ woocommerce
 #: i18n/countries.php:22
@@ -57,12 +57,12 @@ msgstr "Anguilla"
 # @ woocommerce
 #: i18n/countries.php:25
 msgid "Antarctica"
-msgstr "Antarctica"
+msgstr "Antártida"
 
 # @ woocommerce
 #: i18n/countries.php:26
 msgid "Antigua and Barbuda"
-msgstr "Antigua and Barbuda"
+msgstr "Antigua y Barbuda"
 
 # @ woocommerce
 #: i18n/countries.php:27
@@ -92,7 +92,7 @@ msgstr "Austria"
 # @ woocommerce
 #: i18n/countries.php:32
 msgid "Azerbaijan"
-msgstr "Azerbaijan"
+msgstr "Azerbayán"
 
 # @ woocommerce
 #: i18n/countries.php:33
@@ -102,7 +102,7 @@ msgstr "Bahamas"
 # @ woocommerce
 #: i18n/countries.php:34
 msgid "Bahrain"
-msgstr "Bahrain"
+msgstr "Baréin"
 
 # @ woocommerce
 #: i18n/countries.php:35
@@ -117,12 +117,12 @@ msgstr "Barbados"
 # @ woocommerce
 #: i18n/countries.php:37
 msgid "Belarus"
-msgstr "Belarus"
+msgstr "Bielorrusia"
 
 # @ woocommerce
 #: i18n/countries.php:38
 msgid "Belgium"
-msgstr "Belgium"
+msgstr "Bélgica"
 
 # @ woocommerce
 #: i18n/countries.php:39
@@ -147,7 +147,7 @@ msgstr "Bermuda"
 # @ woocommerce
 #: i18n/countries.php:43
 msgid "Bhutan"
-msgstr "Bhutan"
+msgstr "Bután"
 
 # @ woocommerce
 #: i18n/countries.php:44
@@ -157,12 +157,12 @@ msgstr "Bolivia"
 # @ woocommerce
 #: i18n/countries.php:45
 msgid "Bonaire, Saint Eustatius and Saba"
-msgstr "Bonaire, Saint Eustatius and Saba"
+msgstr "Bonaire, San Eustaquio y Saba"
 
 # @ woocommerce
 #: i18n/countries.php:46
 msgid "Bosnia and Herzegovina"
-msgstr "Bosnia and Herzegovina"
+msgstr "Bosnia y Herzegovina"
 
 # @ woocommerce
 #: i18n/countries.php:47
@@ -177,22 +177,22 @@ msgstr "Isla Bouvet"
 # @ woocommerce
 #: i18n/countries.php:49
 msgid "Brazil"
-msgstr "Brazil"
+msgstr "Brasil"
 
 # @ woocommerce
 #: i18n/countries.php:50
 msgid "British Indian Ocean Territory"
-msgstr "British Indian Ocean Territory"
+msgstr "Territorio Británico del Océano Índico"
 
 # @ woocommerce
 #: i18n/countries.php:51
 msgid "British Virgin Islands"
-msgstr "British Virgin Islands"
+msgstr "Islas Vírgenes Británicas"
 
 # @ woocommerce
 #: i18n/countries.php:52
 msgid "Brunei"
-msgstr "Brunei"
+msgstr "Brunéi"
 
 # @ woocommerce
 #: i18n/countries.php:53
@@ -212,32 +212,32 @@ msgstr "Burundi"
 # @ woocommerce
 #: i18n/countries.php:56
 msgid "Cambodia"
-msgstr "Cambodia"
+msgstr "Camboya"
 
 # @ woocommerce
 #: i18n/countries.php:57
 msgid "Cameroon"
-msgstr "Cameroon"
+msgstr "Camerún"
 
 # @ woocommerce
 #: i18n/countries.php:58
 msgid "Canada"
-msgstr "Canada"
+msgstr "Canadá"
 
 # @ woocommerce
 #: i18n/countries.php:59
 msgid "Cape Verde"
-msgstr "Cape Verde"
+msgstr "Cabo Verde"
 
 # @ woocommerce
 #: i18n/countries.php:60
 msgid "Cayman Islands"
-msgstr "Cayman Islands"
+msgstr "Islas Caimán"
 
 # @ woocommerce
 #: i18n/countries.php:61
 msgid "Central African Republic"
-msgstr "Central African Republic"
+msgstr "República Centroafricana"
 
 # @ woocommerce
 #: i18n/countries.php:62
@@ -257,12 +257,12 @@ msgstr "China"
 # @ woocommerce
 #: i18n/countries.php:65
 msgid "Christmas Island"
-msgstr "Christmas Island"
+msgstr "Isla de Navidad"
 
 # @ woocommerce
 #: i18n/countries.php:66
 msgid "Cocos (Keeling) Islands"
-msgstr "Cocos (Keeling) Islands"
+msgstr "Islas Cocos"
 
 # @ woocommerce
 #: i18n/countries.php:67
@@ -272,7 +272,7 @@ msgstr "Colombia"
 # @ woocommerce
 #: i18n/countries.php:68
 msgid "Comoros"
-msgstr "Comoros"
+msgstr "Comoras"
 
 # @ woocommerce
 #: i18n/countries.php:69
@@ -287,7 +287,7 @@ msgstr "Congo (Kinshasa)"
 # @ woocommerce
 #: i18n/countries.php:71
 msgid "Cook Islands"
-msgstr "Cook Islands"
+msgstr "Islas Cook"
 
 # @ woocommerce
 #: i18n/countries.php:72
@@ -297,7 +297,7 @@ msgstr "Costa Rica"
 # @ woocommerce
 #: i18n/countries.php:73
 msgid "Croatia"
-msgstr "Croatia"
+msgstr "Croacia"
 
 # @ woocommerce
 #: i18n/countries.php:74
@@ -312,17 +312,17 @@ msgstr "Cura&Ccedil;ao"
 # @ woocommerce
 #: i18n/countries.php:76
 msgid "Cyprus"
-msgstr "Cyprus"
+msgstr "Chipre"
 
 # @ woocommerce
 #: i18n/countries.php:77
 msgid "Czech Republic"
-msgstr "Czech Republic"
+msgstr "República Checa"
 
 # @ woocommerce
 #: i18n/countries.php:78
 msgid "Denmark"
-msgstr "Denmark"
+msgstr "Dinamarca"
 
 # @ woocommerce
 #: i18n/countries.php:79
@@ -337,7 +337,7 @@ msgstr "Dominica"
 # @ woocommerce
 #: i18n/countries.php:81
 msgid "Dominican Republic"
-msgstr "Dominican Republic"
+msgstr "República Dominicana"
 
 # @ woocommerce
 #: i18n/countries.php:82
@@ -347,7 +347,7 @@ msgstr "Ecuador"
 # @ woocommerce
 #: i18n/countries.php:83
 msgid "Egypt"
-msgstr "Egypt"
+msgstr "Egipto"
 
 # @ woocommerce
 #: i18n/countries.php:84
@@ -357,7 +357,7 @@ msgstr "El Salvador"
 # @ woocommerce
 #: i18n/countries.php:85
 msgid "Equatorial Guinea"
-msgstr "Equatorial Guinea"
+msgstr "Guinea Ecuatorial"
 
 # @ woocommerce
 #: i18n/countries.php:86
@@ -372,52 +372,52 @@ msgstr "Estonia"
 # @ woocommerce
 #: i18n/countries.php:88
 msgid "Ethiopia"
-msgstr "Ethiopia"
+msgstr "Etiopía"
 
 # @ woocommerce
 #: i18n/countries.php:89
 msgid "Falkland Islands"
-msgstr "Falkland Islands"
+msgstr "Islas Malvinas"
 
 # @ woocommerce
 #: i18n/countries.php:90
 msgid "Faroe Islands"
-msgstr "Faroe Islands"
+msgstr "Islas Feroe"
 
 # @ woocommerce
 #: i18n/countries.php:91
 msgid "Fiji"
-msgstr "Fiji"
+msgstr "Fiyi"
 
 # @ woocommerce
 #: i18n/countries.php:92
 msgid "Finland"
-msgstr "Finland"
+msgstr "Finlandia"
 
 # @ woocommerce
 #: i18n/countries.php:93
 msgid "France"
-msgstr "France"
+msgstr "Francia"
 
 # @ woocommerce
 #: i18n/countries.php:94
 msgid "French Guiana"
-msgstr "French Guiana"
+msgstr "Guayana Francesa"
 
 # @ woocommerce
 #: i18n/countries.php:95
 msgid "French Polynesia"
-msgstr "French Polynesia"
+msgstr "Polinesia Francesa"
 
 # @ woocommerce
 #: i18n/countries.php:96
 msgid "French Southern Territories"
-msgstr "French Southern Territories"
+msgstr "Territorios Francéses del Sur"
 
 # @ woocommerce
 #: i18n/countries.php:97
 msgid "Gabon"
-msgstr "Gabon"
+msgstr "Gabón"
 
 # @ woocommerce
 #: i18n/countries.php:98
@@ -432,7 +432,7 @@ msgstr "Georgia"
 # @ woocommerce
 #: i18n/countries.php:100
 msgid "Germany"
-msgstr "Germany"
+msgstr "Alemania"
 
 # @ woocommerce
 #: i18n/countries.php:101
@@ -447,22 +447,22 @@ msgstr "Gibraltar"
 # @ woocommerce
 #: i18n/countries.php:103
 msgid "Greece"
-msgstr "Greece"
+msgstr "Grecia"
 
 # @ woocommerce
 #: i18n/countries.php:104
 msgid "Greenland"
-msgstr "Greenland"
+msgstr "Groenlandia"
 
 # @ woocommerce
 #: i18n/countries.php:105
 msgid "Grenada"
-msgstr "Grenada"
+msgstr "Granada"
 
 # @ woocommerce
 #: i18n/countries.php:106
 msgid "Guadeloupe"
-msgstr "Guadeloupe"
+msgstr "Guadalupe"
 
 # @ woocommerce
 #: i18n/countries.php:107
@@ -482,7 +482,7 @@ msgstr "Guinea"
 # @ woocommerce
 #: i18n/countries.php:110
 msgid "Guinea-Bissau"
-msgstr "Guinea-Bissau"
+msgstr "Guinea-Bisáu"
 
 # @ woocommerce
 #: i18n/countries.php:111
@@ -492,12 +492,12 @@ msgstr "Guyana"
 # @ woocommerce
 #: i18n/countries.php:112
 msgid "Haiti"
-msgstr "Haiti"
+msgstr "Haití"
 
 # @ woocommerce
 #: i18n/countries.php:113
 msgid "Heard Island and McDonald Islands"
-msgstr "Heard Island and McDonald Islands"
+msgstr "Islas Heard y McDonald"
 
 # @ woocommerce
 #: i18n/countries.php:114
@@ -512,12 +512,12 @@ msgstr "Hong Kong"
 # @ woocommerce
 #: i18n/countries.php:116
 msgid "Hungary"
-msgstr "Hungary"
+msgstr "Hungría"
 
 # @ woocommerce
 #: i18n/countries.php:117
 msgid "Iceland"
-msgstr "Iceland"
+msgstr "Islandia"
 
 # @ woocommerce
 #: i18n/countries.php:118
@@ -532,12 +532,12 @@ msgstr "Indonesia"
 # @ woocommerce
 #: i18n/countries.php:120
 msgid "Iran"
-msgstr "Iran"
+msgstr "Irán"
 
 # @ woocommerce
 #: i18n/countries.php:121
 msgid "Iraq"
-msgstr "Iraq"
+msgstr "Irak"
 
 # @ woocommerce
 #: i18n/countries.php:122
@@ -547,7 +547,7 @@ msgstr "República de Irlanda"
 # @ woocommerce
 #: i18n/countries.php:123
 msgid "Isle of Man"
-msgstr "Isle of Man"
+msgstr "Isla de Man"
 
 # @ woocommerce
 #: i18n/countries.php:124
@@ -557,12 +557,12 @@ msgstr "Israel"
 # @ woocommerce
 #: i18n/countries.php:125
 msgid "Italy"
-msgstr "Italy"
+msgstr "Italia"
 
 # @ woocommerce
 #: i18n/countries.php:126
 msgid "Ivory Coast"
-msgstr "Ivory Coast"
+msgstr "Costa de Marfil"
 
 # @ woocommerce
 #: i18n/countries.php:127
@@ -572,7 +572,7 @@ msgstr "Jamaica"
 # @ woocommerce
 #: i18n/countries.php:128
 msgid "Japan"
-msgstr "Japan"
+msgstr "Japón"
 
 # @ woocommerce
 #: i18n/countries.php:129
@@ -582,17 +582,17 @@ msgstr "Jersey"
 # @ woocommerce
 #: i18n/countries.php:130
 msgid "Jordan"
-msgstr "Jordan"
+msgstr "Jordania"
 
 # @ woocommerce
 #: i18n/countries.php:131
 msgid "Kazakhstan"
-msgstr "Kazakhstan"
+msgstr "Kazajistán"
 
 # @ woocommerce
 #: i18n/countries.php:132
 msgid "Kenya"
-msgstr "Kenya"
+msgstr "Kenia"
 
 # @ woocommerce
 #: i18n/countries.php:133
@@ -607,7 +607,7 @@ msgstr "Kuwait"
 # @ woocommerce
 #: i18n/countries.php:135
 msgid "Kyrgyzstan"
-msgstr "Kyrgyzstan"
+msgstr "Kirguistán"
 
 # @ woocommerce
 #: i18n/countries.php:136
@@ -617,17 +617,17 @@ msgstr "Laos"
 # @ woocommerce
 #: i18n/countries.php:137
 msgid "Latvia"
-msgstr "Latvia"
+msgstr "Letonia"
 
 # @ woocommerce
 #: i18n/countries.php:138
 msgid "Lebanon"
-msgstr "Lebanon"
+msgstr "Líbano"
 
 # @ woocommerce
 #: i18n/countries.php:139
 msgid "Lesotho"
-msgstr "Lesotho"
+msgstr "Lesoto"
 
 # @ woocommerce
 #: i18n/countries.php:140
@@ -637,7 +637,7 @@ msgstr "Liberia"
 # @ woocommerce
 #: i18n/countries.php:141
 msgid "Libya"
-msgstr "Libya"
+msgstr "Libia"
 
 # @ woocommerce
 #: i18n/countries.php:142
@@ -647,12 +647,12 @@ msgstr "Liechtenstein"
 # @ woocommerce
 #: i18n/countries.php:143
 msgid "Lithuania"
-msgstr "Lithuania"
+msgstr "Lituania"
 
 # @ woocommerce
 #: i18n/countries.php:144
 msgid "Luxembourg"
-msgstr "Luxembourg"
+msgstr "Luxemburgo"
 
 # @ woocommerce
 #: i18n/countries.php:145
@@ -672,22 +672,22 @@ msgstr "Madagascar"
 # @ woocommerce
 #: i18n/countries.php:148
 msgid "Malawi"
-msgstr "Malawi"
+msgstr "Malaui"
 
 # @ woocommerce
 #: i18n/countries.php:149
 msgid "Malaysia"
-msgstr "Malaysia"
+msgstr "Malasia"
 
 # @ woocommerce
 #: i18n/countries.php:150
 msgid "Maldives"
-msgstr "Maldives"
+msgstr "Maldivas"
 
 # @ woocommerce
 #: i18n/countries.php:151
 msgid "Mali"
-msgstr "Mali"
+msgstr "Malí"
 
 # @ woocommerce
 #: i18n/countries.php:152
@@ -697,12 +697,12 @@ msgstr "Malta"
 # @ woocommerce
 #: i18n/countries.php:153
 msgid "Marshall Islands"
-msgstr "Marshall Islands"
+msgstr "Islas Marshall"
 
 # @ woocommerce
 #: i18n/countries.php:154
 msgid "Martinique"
-msgstr "Martinique"
+msgstr "Martinica"
 
 # @ woocommerce
 #: i18n/countries.php:155
@@ -712,7 +712,7 @@ msgstr "Mauritania"
 # @ woocommerce
 #: i18n/countries.php:156
 msgid "Mauritius"
-msgstr "Mauritius"
+msgstr "Mauricio"
 
 # @ woocommerce
 #: i18n/countries.php:157
@@ -722,7 +722,7 @@ msgstr "Mayotte"
 # @ woocommerce
 #: i18n/countries.php:158
 msgid "Mexico"
-msgstr "Mexico"
+msgstr "México"
 
 # @ woocommerce
 #: i18n/countries.php:159
@@ -732,12 +732,12 @@ msgstr "Micronesia"
 # @ woocommerce
 #: i18n/countries.php:160
 msgid "Moldova"
-msgstr "Moldova"
+msgstr "Moldavia"
 
 # @ woocommerce
 #: i18n/countries.php:161
 msgid "Monaco"
-msgstr "Monaco"
+msgstr "Mónaco"
 
 # @ woocommerce
 #: i18n/countries.php:162
@@ -757,7 +757,7 @@ msgstr "Montserrat"
 # @ woocommerce
 #: i18n/countries.php:165
 msgid "Morocco"
-msgstr "Morocco"
+msgstr "Marruecos"
 
 # @ woocommerce
 #: i18n/countries.php:166
@@ -767,7 +767,7 @@ msgstr "Mozambique"
 # @ woocommerce
 #: i18n/countries.php:167
 msgid "Myanmar"
-msgstr "Myanmar"
+msgstr "Birmania"
 
 # @ woocommerce
 #: i18n/countries.php:168
@@ -787,22 +787,22 @@ msgstr "Nepal"
 # @ woocommerce
 #: i18n/countries.php:171
 msgid "Netherlands"
-msgstr "Netherlands"
+msgstr "Países Bajos"
 
 # @ woocommerce
 #: i18n/countries.php:172
 msgid "Netherlands Antilles"
-msgstr "Netherlands Antilles"
+msgstr "Antillas Neerlandesas"
 
 # @ woocommerce
 #: i18n/countries.php:173
 msgid "New Caledonia"
-msgstr "New Caledonia"
+msgstr "Nueva Caledonia"
 
 # @ woocommerce
 #: i18n/countries.php:174
 msgid "New Zealand"
-msgstr "New Zealand"
+msgstr "Nueva Zelanda"
 
 # @ woocommerce
 #: i18n/countries.php:175
@@ -812,7 +812,7 @@ msgstr "Nicaragua"
 # @ woocommerce
 #: i18n/countries.php:176
 msgid "Niger"
-msgstr "Niger"
+msgstr "Níger"
 
 # @ woocommerce
 #: i18n/countries.php:177
@@ -827,42 +827,42 @@ msgstr "Niue"
 # @ woocommerce
 #: i18n/countries.php:179
 msgid "Norfolk Island"
-msgstr "Norfolk Island"
+msgstr "Isla Norfolk"
 
 # @ woocommerce
 #: i18n/countries.php:180
 msgid "North Korea"
-msgstr "North Korea"
+msgstr "Corea del Norte"
 
 # @ woocommerce
 #: i18n/countries.php:181
 msgid "Norway"
-msgstr "Norway"
+msgstr "Noruega"
 
 # @ woocommerce
 #: i18n/countries.php:182
 msgid "Oman"
-msgstr "Oman"
+msgstr "Omán"
 
 # @ woocommerce
 #: i18n/countries.php:183
 msgid "Pakistan"
-msgstr "Pakistan"
+msgstr "Pakistán"
 
 # @ woocommerce
 #: i18n/countries.php:184
 msgid "Palestinian Territory"
-msgstr "Palestinian Territory"
+msgstr "Territorios Palestinos"
 
 # @ woocommerce
 #: i18n/countries.php:185
 msgid "Panama"
-msgstr "Panama"
+msgstr "Panamá"
 
 # @ woocommerce
 #: i18n/countries.php:186
 msgid "Papua New Guinea"
-msgstr "Papua New Guinea"
+msgstr "Papúa Nueva Guinea"
 
 # @ woocommerce
 #: i18n/countries.php:187
@@ -872,12 +872,12 @@ msgstr "Paraguay"
 # @ woocommerce
 #: i18n/countries.php:188
 msgid "Peru"
-msgstr "Peru"
+msgstr "Perú"
 
 # @ woocommerce
 #: i18n/countries.php:189
 msgid "Philippines"
-msgstr "Philippines"
+msgstr "Filipinas"
 
 # @ woocommerce
 #: i18n/countries.php:190
@@ -887,7 +887,7 @@ msgstr "Pitcairn"
 # @ woocommerce
 #: i18n/countries.php:191
 msgid "Poland"
-msgstr "Poland"
+msgstr "Polonia"
 
 # @ woocommerce
 #: i18n/countries.php:192
@@ -907,57 +907,57 @@ msgstr "Reunion"
 # @ woocommerce
 #: i18n/countries.php:195
 msgid "Romania"
-msgstr "Romania"
+msgstr "Rumanía"
 
 # @ woocommerce
 #: i18n/countries.php:196
 msgid "Russia"
-msgstr "Russia"
+msgstr "Rusia"
 
 # @ woocommerce
 #: i18n/countries.php:197
 msgid "Rwanda"
-msgstr "Rwanda"
+msgstr "Ruanda"
 
 # @ woocommerce
 #: i18n/countries.php:198
 msgid "Saint Barth&eacute;lemy"
-msgstr "Saint Barth&eacute;lemy"
+msgstr "San Bartolomé"
 
 # @ woocommerce
 #: i18n/countries.php:199
 msgid "Saint Helena"
-msgstr "Saint Helena"
+msgstr "Santa Elena"
 
 # @ woocommerce
 #: i18n/countries.php:200
 msgid "Saint Kitts and Nevis"
-msgstr "Saint Kitts and Nevis"
+msgstr "San Cristóbal y Nieves"
 
 # @ woocommerce
 #: i18n/countries.php:201
 msgid "Saint Lucia"
-msgstr "Saint Lucia"
+msgstr "Santa Lucía"
 
 # @ woocommerce
 #: i18n/countries.php:202
 msgid "Saint Martin (French part)"
-msgstr "Saint Martin (French part)"
+msgstr "San Martín (zona de Francesa)"
 
 # @ woocommerce
 #: i18n/countries.php:203
 msgid "Saint Martin (Dutch part)"
-msgstr "San Martin (Zona francesa)"
+msgstr "San Martín (zona de Danesa)"
 
 # @ woocommerce
 #: i18n/countries.php:204
 msgid "Saint Pierre and Miquelon"
-msgstr "Saint Pierre and Miquelon"
+msgstr "San Pedro y Miquelón"
 
 # @ woocommerce
 #: i18n/countries.php:205
 msgid "Saint Vincent and the Grenadines"
-msgstr "Saint Vincent and the Grenadines"
+msgstr "San Vicente y las Granadinas"
 
 # @ woocommerce
 #: i18n/countries.php:206
@@ -967,12 +967,12 @@ msgstr "San Marino"
 # @ woocommerce
 #: i18n/countries.php:207
 msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
-msgstr "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "Santo Tomé y Príncipe"
 
 # @ woocommerce
 #: i18n/countries.php:208
 msgid "Saudi Arabia"
-msgstr "Saudi Arabia"
+msgstr "Arabia Saudita"
 
 # @ woocommerce
 #: i18n/countries.php:209
@@ -992,27 +992,27 @@ msgstr "Seychelles"
 # @ woocommerce
 #: i18n/countries.php:212
 msgid "Sierra Leone"
-msgstr "Sierra Leone"
+msgstr "Sierra Leona"
 
 # @ woocommerce
 #: i18n/countries.php:213
 msgid "Singapore"
-msgstr "Singapore"
+msgstr "Singapur"
 
 # @ woocommerce
 #: i18n/countries.php:214
 msgid "Slovakia"
-msgstr "Slovakia"
+msgstr "Eslovaquia"
 
 # @ woocommerce
 #: i18n/countries.php:215
 msgid "Slovenia"
-msgstr "Slovenia"
+msgstr "Eslovenia"
 
 # @ woocommerce
 #: i18n/countries.php:216
 msgid "Solomon Islands"
-msgstr "Solomon Islands"
+msgstr "Islas Salomón"
 
 # @ woocommerce
 #: i18n/countries.php:217
@@ -1022,17 +1022,17 @@ msgstr "Somalia"
 # @ woocommerce
 #: i18n/countries.php:218
 msgid "South Africa"
-msgstr "South Africa"
+msgstr "Sudáfrica"
 
 # @ woocommerce
 #: i18n/countries.php:219
 msgid "South Georgia/Sandwich Islands"
-msgstr "South Georgia/Sandwich Islands"
+msgstr "Islas Georgias y Sandwich del Sur"
 
 # @ woocommerce
 #: i18n/countries.php:220
 msgid "South Korea"
-msgstr "South Korea"
+msgstr "Corea del Sur"
 
 # @ woocommerce
 #: i18n/countries.php:221
@@ -1052,47 +1052,47 @@ msgstr "Sri Lanka"
 # @ woocommerce
 #: i18n/countries.php:224
 msgid "Sudan"
-msgstr "Sudan"
+msgstr "Sudán"
 
 # @ woocommerce
 #: i18n/countries.php:225
 msgid "Suriname"
-msgstr "Suriname"
+msgstr "Surinam"
 
 # @ woocommerce
 #: i18n/countries.php:226
 msgid "Svalbard and Jan Mayen"
-msgstr "Svalbard and Jan Mayen"
+msgstr "Svalbard y Jan Mayen"
 
 # @ woocommerce
 #: i18n/countries.php:227
 msgid "Swaziland"
-msgstr "Swaziland"
+msgstr "Suazilandia"
 
 # @ woocommerce
 #: i18n/countries.php:228
 msgid "Sweden"
-msgstr "Sweden"
+msgstr "Suecia"
 
 # @ woocommerce
 #: i18n/countries.php:229
 msgid "Switzerland"
-msgstr "Switzerland"
+msgstr "Suiza"
 
 # @ woocommerce
 #: i18n/countries.php:230
 msgid "Syria"
-msgstr "Syria"
+msgstr "Siria"
 
 # @ woocommerce
 #: i18n/countries.php:231
 msgid "Taiwan"
-msgstr "Taiwan"
+msgstr "Taiwán"
 
 # @ woocommerce
 #: i18n/countries.php:232
 msgid "Tajikistan"
-msgstr "Tajikistan"
+msgstr "Tayikistán"
 
 # @ woocommerce
 #: i18n/countries.php:233
@@ -1102,12 +1102,12 @@ msgstr "Tanzania"
 # @ woocommerce
 #: i18n/countries.php:234
 msgid "Thailand"
-msgstr "Thailand"
+msgstr "Tailandia"
 
 # @ woocommerce
 #: i18n/countries.php:235
 msgid "Timor-Leste"
-msgstr "Timor-Leste"
+msgstr "Timor Oriental"
 
 # @ woocommerce
 #: i18n/countries.php:236
@@ -1127,27 +1127,27 @@ msgstr "Tonga"
 # @ woocommerce
 #: i18n/countries.php:239
 msgid "Trinidad and Tobago"
-msgstr "Trinidad and Tobago"
+msgstr "Trinidad y Tobago"
 
 # @ woocommerce
 #: i18n/countries.php:240
 msgid "Tunisia"
-msgstr "Tunisia"
+msgstr "Túnez"
 
 # @ woocommerce
 #: i18n/countries.php:241
 msgid "Turkey"
-msgstr "Turkey"
+msgstr "Turquía"
 
 # @ woocommerce
 #: i18n/countries.php:242
 msgid "Turkmenistan"
-msgstr "Turkmenistan"
+msgstr "Turkmenistán"
 
 # @ woocommerce
 #: i18n/countries.php:243
 msgid "Turks and Caicos Islands"
-msgstr "Turks and Caicos Islands"
+msgstr "Islas Turcas y Caicos"
 
 # @ woocommerce
 #: i18n/countries.php:244
@@ -1162,12 +1162,12 @@ msgstr "Uganda"
 # @ woocommerce
 #: i18n/countries.php:246
 msgid "Ukraine"
-msgstr "Ukraine"
+msgstr "Ucrania"
 
 # @ woocommerce
 #: i18n/countries.php:247
 msgid "United Arab Emirates"
-msgstr "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
 
 # @ woocommerce
 #: i18n/countries.php:248
@@ -1187,7 +1187,7 @@ msgstr "Uruguay"
 # @ woocommerce
 #: i18n/countries.php:251
 msgid "Uzbekistan"
-msgstr "Uzbekistan"
+msgstr "Uzbekistán"
 
 # @ woocommerce
 #: i18n/countries.php:252
@@ -1197,7 +1197,7 @@ msgstr "Vanuatu"
 # @ woocommerce
 #: i18n/countries.php:253
 msgid "Vatican"
-msgstr "Vatican"
+msgstr "Ciudad del Vaticano"
 
 # @ woocommerce
 #: i18n/countries.php:254
@@ -1212,17 +1212,17 @@ msgstr "Vietnam"
 # @ woocommerce
 #: i18n/countries.php:256
 msgid "Wallis and Futuna"
-msgstr "Wallis and Futuna"
+msgstr "Wallis y Futuna"
 
 # @ woocommerce
 #: i18n/countries.php:257
 msgid "Western Sahara"
-msgstr "Western Sahara"
+msgstr "Sahara Occidental"
 
 # @ woocommerce
 #: i18n/countries.php:258
 msgid "Western Samoa"
-msgstr "Western Samoa"
+msgstr "Samoa Occidental"
 
 # @ woocommerce
 #: i18n/countries.php:259
@@ -1237,7 +1237,7 @@ msgstr "Zambia"
 # @ woocommerce
 #: i18n/countries.php:261
 msgid "Zimbabwe"
-msgstr "Zimbabwe"
+msgstr "Zimbabue"
 
 # @ woocommerce
 #: i18n/states/AU.php:13
@@ -1247,7 +1247,7 @@ msgstr "Australian Capital Territory"
 # @ woocommerce
 #: i18n/states/AU.php:14
 msgid "New South Wales"
-msgstr "New South Wales"
+msgstr "Nueva Gales del Sur"
 
 # @ woocommerce
 #: i18n/states/AU.php:15
@@ -5615,7 +5615,7 @@ msgstr "Fuerzas Armadas (AP)"
 # @ woocommerce
 #: i18n/states/US.php:67
 msgid "American Samoa"
-msgstr "American Samoa"
+msgstr "Samoa Americana"
 
 # @ woocommerce
 #: i18n/states/US.php:68
@@ -5625,7 +5625,7 @@ msgstr "Guam"
 # @ woocommerce
 #: i18n/states/US.php:69
 msgid "Northern Mariana Islands"
-msgstr "Northern Mariana Islands"
+msgstr "Islas Marianas del Norte"
 
 # @ woocommerce
 #: i18n/states/US.php:70
@@ -5635,22 +5635,22 @@ msgstr "Puerto Rico"
 # @ woocommerce
 #: i18n/states/US.php:71
 msgid "US Minor Outlying Islands"
-msgstr "US Minor Outlying Islands"
+msgstr "Islas Ultramarinas Menores de Estados Unidos"
 
 # @ woocommerce
 #: i18n/states/US.php:72
 msgid "US Virgin Islands"
-msgstr "Islas Vírgenes USA"
+msgstr "Islas Vírgenes de los Estados Unidos"
 
 # @ woocommerce
 #: i18n/states/ZA.php:13
 msgid "Eastern Cape"
-msgstr "Eastern Cape"
+msgstr "Cabo del Este"
 
 # @ woocommerce
 #: i18n/states/ZA.php:14
 msgid "Free State"
-msgstr "Free State"
+msgstr "Estado Libre"
 
 # @ woocommerce
 #: i18n/states/ZA.php:15
@@ -5675,7 +5675,7 @@ msgstr "Mpumalanga"
 # @ woocommerce
 #: i18n/states/ZA.php:19
 msgid "Northern Cape"
-msgstr "Northern Cape"
+msgstr "Provincia Septentrional del Cabo"
 
 # @ woocommerce
 #: i18n/states/ZA.php:20
@@ -5685,7 +5685,7 @@ msgstr "North West"
 # @ woocommerce
 #: i18n/states/ZA.php:21
 msgid "Western Cape"
-msgstr "Western Cape"
+msgstr "Provincia Occidental del Cabo"
 
 # @ woocommerce
 #: includes/abstracts/abstract-wc-integration.php:29
@@ -8526,19 +8526,19 @@ msgstr "Pendientes de pago BACS"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:364
 msgid "BSB"
-msgstr ""
+msgstr "BSB"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:369
 msgid "Bank Transit Number"
-msgstr ""
+msgstr "Número de Cuenta"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:374
 msgid "IFSC"
-msgstr ""
+msgstr "IFSC"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:379
 msgid "Branch Sort"
-msgstr ""
+msgstr "Código de la Sucursal"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:384
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:389
@@ -8547,11 +8547,11 @@ msgstr "Código de Banco"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:394
 msgid "Routing Number"
-msgstr ""
+msgstr "Número de Cuenta"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:399
 msgid "Branch Code"
-msgstr ""
+msgstr "Código de la Sucursal"
 
 # @ woocommerce
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:27
@@ -12011,7 +12011,7 @@ msgstr "Webhooks"
 #: includes/updates/woocommerce-update-2.0.php:46
 msgctxt "slug"
 msgid "product-category"
-msgstr "categoría-producto"
+msgstr "categoria-producto"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:123
@@ -12085,13 +12085,13 @@ msgstr "En Espera"
 #: includes/class-wc-product-variable.php:316
 msgctxt "Price range: from-to"
 msgid "%1$s&ndash;%2$s"
-msgstr "%s y %s%s"
+msgstr "%1$s&ndash;%2$s"
 
 # @ woocommerce
 #: includes/class-wc-query.php:116
 msgctxt "hash before order number"
 msgid "#"
-msgstr "#"
+msgstr "Nº"
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:52
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:93
@@ -12108,12 +12108,12 @@ msgstr "%b %d, %Y @ %I:%M %p"
 #: includes/wc-page-functions.php:112
 msgctxt "edit-address-slug"
 msgid "billing"
-msgstr "facturación"
+msgstr "facturacion"
 
 #: includes/wc-page-functions.php:113
 msgctxt "edit-address-slug"
 msgid "shipping"
-msgstr "envío"
+msgstr "envio"
 
 # @ woocommerce
 #: includes/wc-template-functions.php:1220
