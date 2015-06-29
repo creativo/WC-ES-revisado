@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.8\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-06-25 08:21+0100\n"
-"PO-Revision-Date: 2015-06-28 12:21+0100\n"
+"PO-Revision-Date: 2015-06-29 12:01+0100\n"
 "Last-Translator: Auriana <legionmanonegra@gmail.com>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -16,7 +16,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
-"X-Generator: Poedit 1.5.3\n"
+"X-Generator: Poedit 1.8.1\n"
 "X-Poedit-SearchPath-0: .\n"
 
 # @ woocommerce
@@ -664,6 +664,10 @@ msgid ""
 "%sWordPress.org support forum%s. For help with premium add-ons from "
 "WooThemes, or if you are a WooThemes customer, you can %suse our helpdesk%s."
 msgstr ""
+"Después de %sleer la documentación%s, para más asistencia puede utilizar "
+"nuestro %sforo comunitario%s si no encuentra una solución. Para ayudar con "
+"las extensiones premium de WooThemes, o si usted es un cliente de WooThemes, "
+"puede %sutilizar nuestro centro de asistencia%s."
 
 #: includes/admin/class-wc-admin-help.php:57
 msgid ""
@@ -684,7 +688,7 @@ msgstr "Estado del sistema"
 
 #: includes/admin/class-wc-admin-help.php:59
 msgid "WordPress.org Support Forum"
-msgstr ""
+msgstr "Foro de Soporte de WordPress.org"
 
 #: includes/admin/class-wc-admin-help.php:59
 msgid "WooThemes Customer Support"
@@ -2111,6 +2115,8 @@ msgid ""
 "This will reset your usage tracking settings, causing it to show the opt-in "
 "banner again and not sending any data."
 msgstr ""
+"Esto restablecerá tus ajustes de seguimiento de uso, haciendo que se muestre "
+"otra vez el aviso de confirmación y que vuelva a no enviarse ningún dato."
 
 #: includes/admin/class-wc-admin-status.php:224
 msgid "Translation Upgrade"
@@ -2330,6 +2336,8 @@ msgid ""
 "We've updated the user interface on both the front and backend of "
 "WooCommerce 2.3 \"Handsome Hippo\"."
 msgstr ""
+"Hemos actualizado la interfaz de usuario tanto del front como del backend de "
+"WooCommerce 2.3 \"Handsome Hippo\"."
 
 #: includes/admin/class-wc-admin-welcome.php:254
 msgid "Frontend UI Improvements"
@@ -2342,6 +2350,10 @@ msgid ""
 "which meshes more fluidly with the current design trends of default "
 "WordPress themes."
 msgstr ""
+"En el frontend hay varias mejoras de UX, como el enlace de deshacer-eliminar-"
+"del carrito o el diseño repsonsivo de las tablas, así como un aspecto "
+"moderno y renovado que encaja mejor con las tendencias actuales de diseño de "
+"los temas por defecto de WordPress."
 
 #: includes/admin/class-wc-admin-welcome.php:258
 msgid "Backend UI Improvements"
@@ -2352,6 +2364,8 @@ msgid ""
 "On the backend, settings have been re-organised and perform better on hand-"
 "held devices for an all round improved user experience. "
 msgstr ""
+"En el back-end, los ajustes se han reorganizado y funcionan mejor en "
+"dispositivos móviles, mejorando la experiencia global del usuario."
 
 #: includes/admin/class-wc-admin-welcome.php:262
 msgid "Webhooks UI"
@@ -2363,10 +2377,13 @@ msgid ""
 "WooCommerce 2.3. This makes it easier for 3rd party apps to integrate with "
 "WooCommerce. Read more in our %sdocs%s."
 msgstr ""
+"Como parte de la API, hemos introducido una interfaz de usuario para el "
+"sistema de Webhooks en WooCommerce 2.3. Esto facilita la integración de "
+"aplicaciones de terceros. Lea más en nuestra %sdocs%s."
 
 #: includes/admin/class-wc-admin-welcome.php:271
 msgid "Geo-locating Customer Location"
-msgstr ""
+msgstr "Geo-localización de la Ubicación de los Clientes"
 
 #: includes/admin/class-wc-admin-welcome.php:272
 msgid ""
@@ -2374,6 +2391,10 @@ msgid ""
 "Coupled with ability to show taxes in your store based on this location, you "
 "can show relevant prices store-wide. Enable this in the %ssettings%s."
 msgstr ""
+"Hemos añadido una nueva opción de geolocalizar la \"Ubicación predeterminada "
+"del cliente\". Unido a la capacidad de mostrar los impuestos de tu tienda en "
+"función a esta ubicación, puedes mostrar los precios pertinentes tienda de "
+"todo. Habilítalo en los %sajustes%s."
 
 #: includes/admin/class-wc-admin-welcome.php:275
 msgid "Color Customization"
@@ -2385,6 +2406,9 @@ msgid ""
 "take a look at the free %sWooCommerce Colors plugin%s. This lets you change "
 "the colors with a live preview."
 msgstr ""
+"Si estás intentando personalizar la apariencia de la interfaz en 2.3, échale "
+"un vistazo a los %sPlugins gratuitos de Colores para WooCommerce%s. Te "
+"permiten cambiar los colores previsualizándolos en vivo."
 
 #: includes/admin/class-wc-admin-welcome.php:279
 msgid "Improved Reports"
@@ -2395,16 +2419,22 @@ msgid ""
 "Sales reports can now show net and gross amounts, we've added a print "
 "stylesheet, and added extra data on refunds to reports."
 msgstr ""
+"Informes de ventas ahora pueden mostrar importes netos y brutos, hemos "
+"añadido una hoja de estilos de impresión, y ha añadido datos adicionales "
+"sobre los reembolsos a los informes."
 
 #: includes/admin/class-wc-admin-welcome.php:285
 msgid "Improved Simplify Gateway"
-msgstr ""
+msgstr "Pasarela de Simpify mejorada"
 
 #: includes/admin/class-wc-admin-welcome.php:286
 msgid ""
 "The built in Simplify Commerce Gateway (available in the US) now supports "
 "%sHosted Payments%s - a PCI Compliant hosted payment platform."
 msgstr ""
+"La pasarela integrada de Simplify (disponible en los EEUU) ahora soporta "
+"%sPagos Hopedados%s - una plataforma de pagos hospedados que cumple con la "
+"normativa PCI."
 
 #: includes/admin/class-wc-admin-welcome.php:289
 msgid "Email Template Improvements"
@@ -2416,6 +2446,10 @@ msgid ""
 "release, some new template files for styling emails, and some additional "
 "hooks for developers. Read more on our %sdeveloper blog%s."
 msgstr ""
+"Para hacer más sencilla la personalización de los emails, hemos incluimos un "
+"integrador de CSS en esta versión, algunas plantillas nuevas para darle "
+"estilo a los emails y algunos hooks adicionales para desarrolladores. Lee "
+"más es nuestro %sblog para desarrolladores%s."
 
 #: includes/admin/class-wc-admin-welcome.php:293
 msgid "Simplified Coupon System"
@@ -2427,6 +2461,10 @@ msgid ""
 "to taxes, and we've improved support for discounting products inclusive of "
 "tax. Read more on our %sdevelop blog%s."
 msgstr ""
+"Hemos simplificado el sistema de cupones para asegurar que los descuentos no "
+"se aplican nunca a los impuestos, y hemos mejorado el soporte para el "
+"descuento de los productos con impuestos incluídos. Lee más en nuestro "
+"%sblog para desarrolladores%s."
 
 # @ woocommerce
 #: includes/admin/class-wc-admin-welcome.php:302
@@ -2467,6 +2505,9 @@ msgid ""
 "If you like <strong>WooCommerce</strong> please leave us a %s&#9733;&#9733;"
 "&#9733;&#9733;&#9733;%s rating. A huge thank you from WooThemes in advance!"
 msgstr ""
+"Si te gusta <strong>WooCommerce</strong> déjanos una calificación de "
+"%s&#9733;&#9733;&#9733;&#9733;&#9733;%s. ¡Muchísimas gracias por adelantado "
+"de parte de WooThemes!"
 
 #: includes/admin/class-wc-admin.php:177
 msgid "Thanks :)"
@@ -2487,6 +2528,8 @@ msgstr "El CSV no es válido."
 #: includes/admin/importers/class-wc-tax-rate-importer.php:145
 msgid "Import complete - imported <strong>%s</strong> tax rates."
 msgstr ""
+"Importación completa - se han importado <strong>%s</strong> tasas de "
+"impuestos."
 
 # @ woocommerce
 #: includes/admin/importers/class-wc-tax-rate-importer.php:155
@@ -2594,6 +2637,10 @@ msgid ""
 "shipping method</a> must be enabled and be set to require \"a valid free "
 "shipping coupon\" (see the \"Free Shipping Requires\" setting)."
 msgstr ""
+"Marque esta casilla si el cupón concede el envío libre. la <a href=\"%s"
+"\">método libre del envío</a> debe estar habilitado y ser fijado a requerir "
+"\"un cupón de envío libre válido\" (ver el  \"Envío Gratis Requiere\" "
+"ajuste)."
 
 # @ woocommerce
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:74
@@ -2751,6 +2798,9 @@ msgid ""
 "List of allowed emails to check against the customer's billing email when an "
 "order is placed. Separate email addresses with commas."
 msgstr ""
+"Lista de correos electrónicos permitidos para comprobar contra la "
+"facturación de correo electrónico del cliente cuando se hace un pedido. "
+"Mensaje personal aborda con comas."
 
 # @ woocommerce
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:182
@@ -3659,12 +3709,15 @@ msgid ""
 "The downloadable file %s cannot be used as it does not have an allowed file "
 "type. Allowed types include: %s"
 msgstr ""
+"El fichero descargable %s no puede utilizarse porque no es de un tipo "
+"permitido. Los tipos permitidos incluyen: %s"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1266
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1538
 msgid ""
 "The downloadable file %s cannot be used as it does not exist on the server."
 msgstr ""
+"El fichero descargable %s no puede utlizarse porque no existe en el servidor."
 
 # @ woocommerce
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1367
@@ -3912,6 +3965,8 @@ msgid ""
 "The payment gateway used to place this order does not support automatic "
 "refunds."
 msgstr ""
+"La pasarela de pago utilizado para colocar este orden no es compatible con "
+"los reembolsos automáticos."
 
 #: includes/admin/meta-boxes/views/html-order-items.php:288
 msgid ""
@@ -5133,6 +5188,9 @@ msgid ""
 "Database%s will be periodically downloaded and stored in your wp-content "
 "directory."
 msgstr ""
+"Nota: Si usted elige Geolocalizar la dirección del usuario, el%sMaxMind "
+"GeoLite base de datos%s se descarga y se almacena en el directorio wp-"
+"content periódicamente."
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-general.php:95
@@ -5391,7 +5449,7 @@ msgstr "Ordenar por precio (desc)"
 
 #: includes/admin/settings/class-wc-settings-products.php:154
 msgid "Add to cart behaviour"
-msgstr ""
+msgstr "Añadir al comportamiento de la cesta"
 
 #: includes/admin/settings/class-wc-settings-products.php:155
 msgid "Redirect to the cart page after successful addition"
@@ -5413,6 +5471,10 @@ msgid ""
 "changing these settings you may need to <a href=\"%s\">regenerate your "
 "thumbnails</a>."
 msgstr ""
+"Estos ajustes afectan a la pantalla y las dimensiones de las imágenes de su "
+"catálogo - la pantalla en el front-end seguirá siendo afectado por los "
+"estilos CSS. Después de cambiar estos ajustes puede que tenga que <a href="
+"\"%s\">volver a generar las miniaturas</a> ."
 
 # @ woocommerce
 #: includes/admin/settings/class-wc-settings-products.php:183
@@ -5851,24 +5913,24 @@ msgstr "Webhooks"
 #: includes/admin/settings/class-wc-settings-webhooks.php:63
 msgid "1 webhook moved to the Trash."
 msgid_plural "%d webhooks moved to the Trash."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 webhook trasladado a la Papelera."
+msgstr[1] "%d webhooks trasladados a la Papelera."
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:69
 msgid "1 webhook restored from the Trash."
 msgid_plural "%d webhooks restored from the Trash."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 webhook restaurado de la Papelera."
+msgstr[1] "%d webhooks restaurados de la Papelera."
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:75
 msgid "1 webhook permanently deleted."
 msgid_plural "%d webhooks permanently deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 webhook eliminado de forma permanente."
+msgstr[1] "%d webhooks eliminados de forma permanente."
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:79
 msgid "Webhook updated successfully."
-msgstr ""
+msgstr "Webhook actualizado correctamente."
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:83
 msgid "Webhook created successfully."
@@ -5884,7 +5946,7 @@ msgstr "Buscar Webhooks"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:140
 msgid "This Webhook has no log yet."
-msgstr ""
+msgstr "Este Webhook no tiene registro todavía."
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:213
 #: includes/admin/settings/class-wc-settings-webhooks.php:215
@@ -6091,6 +6153,8 @@ msgid ""
 "Friendly name for identifying this webhook, defaults to Webhook created on "
 "%s."
 msgstr ""
+"Nombre descriptivo para identificar esta webhook, por defecto Webhook creó en"
+"%s."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:25
 msgid ""
@@ -6098,10 +6162,13 @@ msgid ""
 "(does not deliver), or &quot;Disabled&quot; (does not deliver due delivery "
 "failures)."
 msgstr ""
+"Las opciones son &quot;activo&quot; (entrega de carga útil), &quot;En "
+"pausa&quot; (no entrega), o &quot;Disabled&quot; (no entrega errores en la "
+"entrega debido)."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:42
 msgid "Select when the webhook will fire."
-msgstr ""
+msgstr "Seleccione cuando el webhook se disparará."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:51
 msgid "Coupon Created"
@@ -6165,7 +6232,7 @@ msgstr "Evento de Acción"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:76
 msgid "Enter the Action that will trigger this webhook."
-msgstr ""
+msgstr "Introduzca la acción que activará esta webhook."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:84
 msgid "Custom Topic"
@@ -6173,11 +6240,11 @@ msgstr "Tema Personalizado"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:85
 msgid "Enter the Custom Topic that will trigger this webhook."
-msgstr ""
+msgstr "Introduzca el tema personalizado que activará esta webhook."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:94
 msgid "URL where the webhook payload is delivered."
-msgstr ""
+msgstr "URL en la que se entrega la carga útil webhook."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:102
 msgid "Secret"
@@ -6189,6 +6256,9 @@ msgid ""
 "provided in the request headers. This will default to the current API user's "
 "consumer secret if not provided."
 msgstr ""
+"La clave secreta se utiliza para generar un hash de la webhook entregado y "
+"proporciona en las cabeceras de petición. Esto será por defecto secreto "
+"consumidor del usuario API actual si no se proporciona."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:116
 msgid "Webhook Actions"
@@ -6300,6 +6370,8 @@ msgid ""
 "List additional tax classes below (1 per line). This is in addition to the "
 "default \"Standard Rate\"."
 msgstr ""
+"Lista de clases de impuestos adicionales a continuación (1 por línea). Esto "
+"se suma a los valores de &quot;Tarifa Estándar&quot;."
 
 # @ woocommerce
 #: includes/admin/settings/views/settings-tax.php:71
@@ -6337,6 +6409,10 @@ msgid ""
 "here using one of the following: {price_including_tax}, "
 "{price_excluding_tax}."
 msgstr ""
+"Definir texto para mostrar después de que sus precios de los productos. Esto "
+"podría ser, por ejemplo, \"inc. Vat\" para explicar su precio. También puede "
+"haber precios sustituido aquí usando uno de los siguientes: "
+"{price_including_tax}, {price_excluding_tax}."
 
 #: includes/admin/settings/views/settings-tax.php:109
 msgid "Display Tax Totals:"
@@ -6395,11 +6471,11 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-addons.php:103
 msgid "Looking for a WooCommerce theme?"
-msgstr ""
+msgstr "Buscando un tema WooCommerce?"
 
 #: includes/admin/views/html-admin-page-addons.php:106
 msgid "We recommend Storefront, the %sofficial%s WooCommerce theme."
-msgstr ""
+msgstr "Recomendamos Storefront, el%sofficial%s WooCommerce tema."
 
 #: includes/admin/views/html-admin-page-addons.php:110
 msgid ""
@@ -6407,10 +6483,13 @@ msgid ""
 "deep integration with WooCommerce and many of the most popular customer-"
 "facing extensions."
 msgstr ""
+"Storefront es una interfaz intuitiva y flexible%sfree%s WordPress tema de la "
+"ofrenda profunda integración con WooCommerce y muchas de las extensiones de "
+"cara al cliente más populares."
 
 #: includes/admin/views/html-admin-page-addons.php:114
 msgid "Read all about it"
-msgstr ""
+msgstr "Lee todos los detalles"
 
 #: includes/admin/views/html-admin-page-addons.php:115
 msgid "Download &amp; install"
@@ -6439,7 +6518,7 @@ msgstr "Obtener Informe de Sistema"
 
 #: includes/admin/views/html-admin-page-status-report.php:15
 msgid "Understanding the Status Report"
-msgstr ""
+msgstr "Explicación del informe de estado"
 
 #: includes/admin/views/html-admin-page-status-report.php:18
 msgid "Copied!"
@@ -6478,7 +6557,7 @@ msgstr "Versión de WC"
 
 #: includes/admin/views/html-admin-page-status-report.php:41
 msgid "The version of WooCommerce installed on your site."
-msgstr ""
+msgstr "La versión de WooCommerce instalado en su sitio."
 
 #: includes/admin/views/html-admin-page-status-report.php:45
 msgid "WC Database Version"
@@ -6489,22 +6568,29 @@ msgid ""
 "The version of WooCommerce that the database is formatted for. This should "
 "be the same as your WooCommerce Version."
 msgstr ""
+"La versión de WooCommerce que la base de datos está formateado para. Este "
+"debe ser el mismo que su versión WooCommerce."
 
 #: includes/admin/views/html-admin-page-status-report.php:50
 msgid "Log Directory Writable"
-msgstr ""
+msgstr "Directorio de Registro Escribible"
 
 #: includes/admin/views/html-admin-page-status-report.php:51
 msgid ""
 "Several WooCommerce extensions can write logs which makes debugging problems "
 "easier. The directory must be writable for this to happen."
 msgstr ""
+"Varias extensiones WooCommerce pueden escribir registros que hace que los "
+"problemas de depuración más fácil. El directorio debe tener permisos de "
+"escritura para que esto suceda."
 
 #: includes/admin/views/html-admin-page-status-report.php:56
 msgid ""
 "To allow logging, make <code>%s</code> writable or define a custom "
 "<code>WC_LOG_DIR</code>."
 msgstr ""
+"Para permitir el registro, haga <code>%s</code> de escritura o definir una "
+"costumbre <code>WC_LOG_DIR</code> ."
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:61
@@ -6513,7 +6599,7 @@ msgstr "Versión de WP"
 
 #: includes/admin/views/html-admin-page-status-report.php:62
 msgid "The version of WordPress installed on your site."
-msgstr ""
+msgstr "La versión de WordPress instalado en su sitio."
 
 #: includes/admin/views/html-admin-page-status-report.php:66
 msgid "WP Multisite"
@@ -6521,7 +6607,7 @@ msgstr "WP Multisitio"
 
 #: includes/admin/views/html-admin-page-status-report.php:67
 msgid "Whether or not you have WordPress Multisite enabled."
-msgstr ""
+msgstr "Independientemente de si usted tiene WordPress multisitio habilitado."
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:71
@@ -6531,12 +6617,16 @@ msgstr "WP Límite de Memoria"
 #: includes/admin/views/html-admin-page-status-report.php:72
 msgid "The maximum amount of memory (RAM) that your site can use at one time."
 msgstr ""
+"La cantidad máxima de memoria (RAM) que su sitio puede utilizar al mismo "
+"tiempo."
 
 #: includes/admin/views/html-admin-page-status-report.php:77
 msgid ""
 "%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\" "
 "target=\"_blank\">Increasing memory allocated to PHP</a>"
 msgstr ""
+"%s - Es recomendable configurar la memoria de al menos 64 MB. Ver: <a href="
+"\"%s\" target=\"_blank\">El aumento de la memoria ubicada para PHP</a>"
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:84
@@ -6545,7 +6635,7 @@ msgstr "WP Debug Mode"
 
 #: includes/admin/views/html-admin-page-status-report.php:85
 msgid "Displays whether or not WordPress is in Debug Mode."
-msgstr ""
+msgstr "Muestra si WordPress está en modo de depuración."
 
 #: includes/admin/views/html-admin-page-status-report.php:89
 msgid "Language"
@@ -6553,7 +6643,7 @@ msgstr "Idioma"
 
 #: includes/admin/views/html-admin-page-status-report.php:90
 msgid "The current language used by WordPress. Default = English"
-msgstr ""
+msgstr "El lenguaje actual utilizado por WordPress. Por defecto = Inglés"
 
 #: includes/admin/views/html-admin-page-status-report.php:98
 msgid "Server Environment"
@@ -6565,7 +6655,7 @@ msgstr "Info del Servidor"
 
 #: includes/admin/views/html-admin-page-status-report.php:104
 msgid "Information about the web server that is currently hosting your site."
-msgstr ""
+msgstr "Información sobre el servidor web que aloje su sitio."
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:108
@@ -6574,17 +6664,20 @@ msgstr "Version de PHP"
 
 #: includes/admin/views/html-admin-page-status-report.php:109
 msgid "The version of PHP installed on your hosting server."
-msgstr ""
+msgstr "La versión de PHP instalada en el servidor de alojamiento."
 
 #: includes/admin/views/html-admin-page-status-report.php:116
 msgid ""
 "%s - We recommend a minimum PHP version of 5.4. See: <a href=\"%s\" target="
 "\"_blank\">How to update your PHP version</a>"
 msgstr ""
+"%s - Recomendamos una versión mínima de PHP 5.4. Ver: <a href=\"%s\" target="
+"\"_blank\">Cómo actualizar su versión de PHP</a>"
 
 #: includes/admin/views/html-admin-page-status-report.php:121
 msgid "Couldn't determine PHP version because phpversion() doesn't exist."
 msgstr ""
+"No se pudo determinar la versión de PHP porque phpversion () no existe."
 
 #: includes/admin/views/html-admin-page-status-report.php:127
 msgid "PHP Post Max Size"
@@ -6592,7 +6685,7 @@ msgstr "Post Max Size de PHP"
 
 #: includes/admin/views/html-admin-page-status-report.php:128
 msgid "The largest filesize that can be contained in one post."
-msgstr ""
+msgstr "El mayor tamaño de archivo que puede estar contenida en un solo post."
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:132
@@ -6604,6 +6697,8 @@ msgid ""
 "The amount of time (in seconds) that your site will spend on a single "
 "operation before timing out (to avoid server lockups)"
 msgstr ""
+"La cantidad de tiempo (en segundos) que su sitio va a gastar en una sola "
+"operación antes de tiempo de espera (para evitar bloqueos de servidor)"
 
 #: includes/admin/views/html-admin-page-status-report.php:137
 msgid "PHP Max Input Vars"
@@ -6614,6 +6709,8 @@ msgid ""
 "The maximum number of variables your server can use for a single function to "
 "avoid overloads."
 msgstr ""
+"El número máximo de variables de su servidor puede utilizarlo para una sola "
+"función para evitar sobrecargas."
 
 #: includes/admin/views/html-admin-page-status-report.php:142
 msgid "SUHOSIN Installed"
@@ -6628,6 +6725,12 @@ msgid ""
 "enabled on your server, Suhosin may need to be configured to increase its "
 "data submission limits."
 msgstr ""
+"Suhosin es un sistema de protección avanzado para instalaciones de PHP. Fue "
+"diseñado para proteger sus servidores, por un lado, contra varios problemas "
+"bien conocidos en aplicaciones PHP y por otro lado contra potenciales "
+"vulnerabilidades desconocidas dentro de estas aplicaciones o el propio "
+"núcleo de PHP. Si está activado en tu servidor, Suhosin puede necesitar ser "
+"configurado para aumentar sus límites de presentación de datos."
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:148
@@ -6636,7 +6739,7 @@ msgstr "Versión de MySQL"
 
 #: includes/admin/views/html-admin-page-status-report.php:149
 msgid "The version of MySQL installed on your hosting server."
-msgstr ""
+msgstr "La versión de MySQL instalado en su servidor de alojamiento."
 
 #: includes/admin/views/html-admin-page-status-report.php:159
 msgid "Max Upload Size"
@@ -6646,6 +6749,7 @@ msgstr "Tamaño Máx. de Subida"
 msgid ""
 "The largest filesize that can be uploaded to your WordPress installation."
 msgstr ""
+"El mayor tamaño de archivo que se puede cargar a su instalación de WordPress."
 
 #: includes/admin/views/html-admin-page-status-report.php:164
 msgid "Default Timezone is UTC"
@@ -6665,6 +6769,9 @@ msgid ""
 "authorize payments, other plugins may also use it when communicating with "
 "remote services."
 msgstr ""
+"Las pasarelas de pago pueden utilizar CURL para comunicarse con servidores "
+"remotos para autorizar los pagos, otros plugins también pueden utilizarlo en "
+"la comunicación con los servicios remotos."
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:186
@@ -6683,6 +6790,9 @@ msgid ""
 "servers, for example, live shipping quotes from FedEx require SOAP to be "
 "installed."
 msgstr ""
+"Algunos servicios web, como el uso del envío de SOAP para obtener "
+"información de los servidores remotos, por ejemplo, los gastos de envío de "
+"FedEx en vivo requieren SOAP para instalarse."
 
 #: includes/admin/views/html-admin-page-status-report.php:197
 msgid ""
@@ -6697,6 +6807,8 @@ msgstr ""
 msgid ""
 "HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
 msgstr ""
+"HTML / mensajes de correo electrónico de varias partes utilizan DOMDocument "
+"para generar CSS en línea en las plantillas."
 
 #: includes/admin/views/html-admin-page-status-report.php:208
 msgid ""
@@ -6704,10 +6816,13 @@ msgid ""
 "HTML/Multipart emails, and also some extensions, will not work without "
 "DOMDocument."
 msgstr ""
+"Su servidor no tiene el <a href=\"%s\">DOMDocument</a> clase habilitado - "
+"HTML / mensajes de correo electrónico de varias partes, y también algunas "
+"extensiones, no funcionará sin DOMDocument."
 
 #: includes/admin/views/html-admin-page-status-report.php:213
 msgid "GZip (gzopen) is used to open the GEOIP database from MaxMind."
-msgstr ""
+msgstr "Gzip (gzopen) se utiliza para abrir la base de datos GEOIP de MaxMind."
 
 #: includes/admin/views/html-admin-page-status-report.php:219
 msgid ""
@@ -6715,6 +6830,9 @@ msgid ""
 "is required to use the GeoIP database from MaxMind. The API fallback will be "
 "used instead for geolocation."
 msgstr ""
+"Su servidor no es compatible con el <a href=\"%s\">gzopen</a> función - esto "
+"es necesario para utilizar la base de datos de GeoIP de MaxMind. El "
+"repliegue de la API se utiliza en lugar de geolocalización."
 
 #: includes/admin/views/html-admin-page-status-report.php:223
 msgid "Remote Post"
@@ -6725,12 +6843,16 @@ msgid ""
 "PayPal uses this method of communicating when sending back transaction "
 "information."
 msgstr ""
+"PayPal utiliza este método de comunicación al enviar de nuevo la información "
+"de transacciones."
 
 #: includes/admin/views/html-admin-page-status-report.php:237
 msgid ""
 "wp_remote_post() failed. PayPal IPN won't work with your server. Contact "
 "your hosting provider."
 msgstr ""
+"wp_remote_post() falló. PayPal IPN no funcionará con el servidor. "
+"Comuníquese con su proveedor de hosting."
 
 #: includes/admin/views/html-admin-page-status-report.php:239
 #: includes/admin/views/html-admin-page-status-report.php:257
@@ -6751,12 +6873,16 @@ msgid ""
 "WooCommerce plugins may use this method of communication when checking for "
 "plugin updates."
 msgstr ""
+"Plugins WooCommerce pueden utilizar este método de comunicación en la "
+"comprobación de actualizaciones del plugin."
 
 #: includes/admin/views/html-admin-page-status-report.php:255
 msgid ""
 "wp_remote_get() failed. The WooCommerce plugin updater won't work with your "
 "server. Contact your hosting provider."
 msgstr ""
+"wp_remote_get() falló. El plug-in de actualización WooCommerce no funcionará "
+"con el servidor. Comuníquese con su proveedor de hosting."
 
 #: includes/admin/views/html-admin-page-status-report.php:287
 msgid "Server Locale"
@@ -6799,7 +6925,7 @@ msgstr "API Habilitada"
 
 #: includes/admin/views/html-admin-page-status-report.php:388
 msgid "Does your site have REST API enabled?"
-msgstr ""
+msgstr "¿Tiene habilitado API REST su sitio?"
 
 #: includes/admin/views/html-admin-page-status-report.php:392
 msgid "Taxes Enabled"
@@ -6807,7 +6933,7 @@ msgstr "Impuestos Habilitados"
 
 #: includes/admin/views/html-admin-page-status-report.php:393
 msgid "Does your site have taxes enabled?"
-msgstr ""
+msgstr "¿Tiene este sitio habilitado impuestos?"
 
 #: includes/admin/views/html-admin-page-status-report.php:397
 msgid "Shipping Enabled"
@@ -6815,7 +6941,7 @@ msgstr "Envío Habilitado"
 
 #: includes/admin/views/html-admin-page-status-report.php:398
 msgid "Does your site have shipping enabled?"
-msgstr ""
+msgstr "¿Tiene envío activar su sitio?"
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:402
@@ -6824,7 +6950,7 @@ msgstr "Forzar SSL"
 
 #: includes/admin/views/html-admin-page-status-report.php:403
 msgid "Does your site force a SSL Certificate for transactions?"
-msgstr ""
+msgstr "¿Su sitio de forzar un certificado SSL para las transacciones?"
 
 #: includes/admin/views/html-admin-page-status-report.php:408
 msgid ""
@@ -6858,20 +6984,25 @@ msgstr "Páginas de WC"
 #: includes/admin/views/html-admin-page-status-report.php:445
 msgid "The URL of your WooCommerce shop's homepage (along with the Page ID)."
 msgstr ""
+"La URL de la página web de su tienda WooCommerce (junto con el ID de página)."
 
 #: includes/admin/views/html-admin-page-status-report.php:450
 msgid "The URL of your WooCommerce shop's cart (along with the page ID)."
 msgstr ""
+"La URL de la compra de su tienda WooCommerce (junto con el ID de la página)."
 
 #: includes/admin/views/html-admin-page-status-report.php:455
 msgid "The URL of your WooCommerce shop's checkout (along with the page ID)."
 msgstr ""
+"La URL de la caja de su taller WooCommerce (junto con el ID de la página)."
 
 #: includes/admin/views/html-admin-page-status-report.php:460
 msgid ""
 "The URL of your WooCommerce shop's “My Account” Page (along with the page "
 "ID)."
 msgstr ""
+"La URL de la página de &quot;Mi cuenta&quot; de su tienda WooCommerce (junto "
+"con el ID de la página)."
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-report.php:481
@@ -6948,6 +7079,9 @@ msgid ""
 "personally we recommend using a child theme. See: <a href=\"%s\" target="
 "\"_blank\">How to create a child theme</a>"
 msgstr ""
+"Si está modificando WooCommerce o un tema de los padres que no construye "
+"personalmente le recomendamos que utilice un tema menor. Ver: <a href=\"%s\" "
+"target=\"_blank\">Cómo crear un tema infantil</a>"
 
 #: includes/admin/views/html-admin-page-status-report.php:598
 msgid "Parent Theme Name"
@@ -6981,7 +7115,7 @@ msgstr "Soporte WooCommerce"
 msgid ""
 "Displays whether or not the current active theme declares WooCommerce "
 "support."
-msgstr ""
+msgstr "Muestra si el tema activo corriente declara apoyo WooCommerce."
 
 #: includes/admin/views/html-admin-page-status-report.php:618
 msgid "Not Declared"
@@ -7015,7 +7149,7 @@ msgstr "Sobrescrituras"
 
 #: includes/admin/views/html-admin-page-status-report.php:699
 msgid "Learn how to update outdated templates"
-msgstr ""
+msgstr "Aprende como actualizar las plantillas obsoletas"
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-tools.php:18
@@ -7053,6 +7187,8 @@ msgid ""
 "This tool will delete all WooCommerce, Product and Order data when "
 "uninstalling via Plugins > Delete."
 msgstr ""
+"Esta herramienta eliminará todo WooCommerce, productos y datos de pedido al "
+"desinstalar mediante Plugins&gt; Eliminar."
 
 # @ woocommerce
 #: includes/admin/views/html-admin-page-status-tools.php:69
@@ -7179,10 +7315,13 @@ msgid ""
 "want to continue editing the colors of your store we recommended that you "
 "install the replacement WooCommerce Colors plugin from WordPress.org."
 msgstr ""
+"<strong>Las opciones de estilo Frontend están en desuso</strong> - Si desea "
+"seguir editando los colores de su tienda que recomendamos que instale los "
+"WooCommerce reemplazo Colores plugin desde WordPress.org."
 
 #: includes/admin/views/html-notice-frontend-colors.php:21
 msgid "Install the new WooCommerce Colors plugin"
-msgstr ""
+msgstr "Instalar el nuevo plugin de Colores de WooCommerce"
 
 # @ woocommerce
 #: includes/admin/views/html-notice-frontend-colors.php:21
@@ -7214,6 +7353,13 @@ msgid ""
 "com/document/template-structure/\" target=\"_blank\">learn more about "
 "WooCommerce Template Structure here</a>."
 msgstr ""
+"<strong>Su tema ha incluido copias no actualizadas de los archivos de "
+"plantilla WooCommerce.</strong> Si usted nota un problema en su sitio, esta "
+"podría ser la razón. Por favor, póngase en contacto con su desarrollador "
+"tema para obtener más ayuda. Usted puede revisar el informe de estado del "
+"sistema para obtener más detalles o <a href=\"http://docs.woothemes.com/"
+"document/template-structure/\" target=\"_blank\">aprender más sobre la "
+"estructura de plantilla WooCommerce aquí</a> ."
 
 #: includes/admin/views/html-notice-theme-support.php:13
 msgid ""
@@ -7222,10 +7368,14 @@ msgid ""
 "which is totally free to download and designed specifically for use with "
 "WooCommerce :)"
 msgstr ""
+"<strong>Su tema no declara apoyo WooCommerce</strong> - Por favor lea "
+"nuestra guía de integración o echa un vistazo a nuestro tema%sStorefront%s, "
+"que es totalmente gratuito para descargar y diseñado específicamente para su "
+"uso con WooCommerce :)"
 
 #: includes/admin/views/html-notice-theme-support.php:15
 msgid "Find out more about Storefront"
-msgstr ""
+msgstr "Obtenga más información sobre Storefront"
 
 #: includes/admin/views/html-notice-theme-support.php:16
 msgid "Theme integration guide"
@@ -7237,6 +7387,10 @@ msgid ""
 "non-sensitive diagnostic data and usage information, and get %s discount on "
 "your next WooThemes purchase. %sFind out more%s."
 msgstr ""
+"¿Quieres ayudar a hacer WooCommerce aún más impresionante? Permitir "
+"WooThemes para recoger información no confidencial de los datos y el uso de "
+"diagnóstico, y obtener descuento%s en sus próximas WooThemes compran. %sfind "
+"más%s."
 
 #: includes/admin/views/html-notice-tracking.php:13
 msgid "No, do not bother me again"
@@ -8263,8 +8417,8 @@ msgstr "Editar página %s"
 #~ msgstr ""
 #~ "Define el texto a mostrar después del precio de los productos. Este puede "
 #~ "ser, por ejemplo, \"inc. imp.\" para explicar tus precios. También puede "
-#~ "tener precios sustituidos usando uso de los siguientes: <code>"
-#~ "{price_including_tax}, {price_excluding_tax}</code>."
+#~ "tener precios sustituidos usando uso de los siguientes: "
+#~ "<code>{price_including_tax}, {price_excluding_tax}</code>."
 
 # @ woocommerce
 #~ msgid "Display prices during cart/checkout:"

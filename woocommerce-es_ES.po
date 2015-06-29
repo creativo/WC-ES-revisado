@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.10\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-06-25 09:58+0100\n"
-"PO-Revision-Date: 2015-06-28 13:58+0100\n"
+"PO-Revision-Date: 2015-06-29 11:18+0100\n"
 "Last-Translator: Auriana <legionmanonegra@gmail.com>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.5.3\n"
+"X-Generator: Poedit 1.8.1\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -6698,7 +6698,7 @@ msgstr ""
 # @ woocommerce
 #: includes/class-wc-checkout.php:447 includes/class-wc-form-handler.php:85
 msgid "is a required field."
-msgstr "es un campo requerido."
+msgstr "es un campo obligatorio."
 
 # @ woocommerce
 #: includes/class-wc-checkout.php:460 includes/class-wc-form-handler.php:98
@@ -7253,7 +7253,7 @@ msgstr "Error"
 # @ woocommerce
 #: includes/class-wc-form-handler.php:766
 msgid "Username is required."
-msgstr "Nombre de usuario requerido."
+msgstr "El nombre de usuario es obligatorio."
 
 # @ woocommerce
 #: includes/class-wc-form-handler.php:770
@@ -7288,7 +7288,7 @@ msgstr "Por favor seleccione un clasificación"
 #: includes/class-wc-frontend-scripts.php:222
 #: includes/wc-template-functions.php:1579
 msgid "required"
-msgstr "requerido"
+msgstr "obligatorio"
 
 # @ woocommerce
 #: includes/class-wc-frontend-scripts.php:248
@@ -7488,12 +7488,12 @@ msgstr "Todas las clases de envío"
 # @ woocommerce
 #: includes/class-wc-post-types.php:141
 msgid "Parent Shipping Class"
-msgstr "Clases de envío superior"
+msgstr "Clase de envío padre"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:142
 msgid "Parent Shipping Class:"
-msgstr "Clase de envío superior:"
+msgstr "Clase de envío padre:"
 
 # @ woocommerce
 #: includes/class-wc-post-types.php:143
@@ -7929,7 +7929,8 @@ msgid ""
 "Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed "
 "in WC 2.2."
 msgstr ""
-"Use $args[\"posts_per_page\"]. Argumento deprecado será eliminado en WC 2.2."
+"Usa $args[\"posts_per_page\"] en su lugar. Argumento obsoleto que será "
+"eliminado en WC 2.2."
 
 #: includes/emails/class-wc-email-cancelled-order.php:28
 #: includes/emails/class-wc-email-cancelled-order.php:31
@@ -8030,7 +8031,7 @@ msgstr ""
 #: includes/emails/class-wc-email-new-order.php:150
 #: includes/emails/class-wc-email.php:498
 msgid "Email type"
-msgstr "Tipo de Email"
+msgstr "Tipo de email"
 
 # @ woocommerce
 #: includes/emails/class-wc-email-cancelled-order.php:146
@@ -8608,7 +8609,7 @@ msgstr ""
 # @ woocommerce
 #: includes/gateways/cod/class-wc-gateway-cod.php:61
 msgid "Enable COD"
-msgstr "Habilitar contraentrega"
+msgstr "Habilitar contrareembolso"
 
 # @ woocommerce
 #: includes/gateways/cod/class-wc-gateway-cod.php:62
@@ -8624,7 +8625,7 @@ msgstr "Descripción del método de pago que el cliente verá en el sitio web."
 #: includes/gateways/cod/class-wc-gateway-cod.php:78
 #: includes/gateways/cod/class-wc-gateway-cod.php:85
 msgid "Pay with cash upon delivery."
-msgstr "Pagar contra rembolso."
+msgstr "Pague en efectivo a la entrega."
 
 # @ woocommerce
 #: includes/gateways/cod/class-wc-gateway-cod.php:84
@@ -8697,7 +8698,7 @@ msgstr "Pasarela desactivada"
 # @ woocommerce
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:199
 msgid "PayPal does not support your store currency."
-msgstr "Paypal no soporta la moneda establecida"
+msgstr "Paypal no soporta la moneda establecida de su tienda."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:287
 msgid "Refunded %s - Refund ID: %s"
@@ -9088,7 +9089,7 @@ msgstr "El pago fue denegado - por favor, utiliza otra tarjeta."
 
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:393
 msgid "%s - Pre-order for \"%s\""
-msgstr "%s - Pre-pedido de \"%s\""
+msgstr "%s - Reserva de \"%s\""
 
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:423
 msgid "Payment was declined - the customer need to try another card."
@@ -10206,7 +10207,7 @@ msgstr "Producto agrupado"
 
 #: includes/wc-product-functions.php:499
 msgid "External/Affiliate product"
-msgstr "Producto externo/afiliado"
+msgstr "Producto Externo/Afiliado"
 
 #: includes/wc-product-functions.php:500
 msgid "Variable product"
@@ -10327,17 +10328,17 @@ msgstr "Selecciona un estado/província&hellip;"
 #: includes/wc-template-functions.php:1791
 #: templates/single-product/add-to-cart/variable.php:27
 msgid "Choose an option"
-msgstr "Seleccionar una opción"
+msgstr "Selecciona una opción"
 
 # @ woocommerce
 #: includes/wc-term-functions.php:167
 msgid "Select a category"
-msgstr "Seleccione una categoría"
+msgstr "Selecciona una categoría"
 
 # @ woocommerce
 #: includes/wc-term-functions.php:170
 msgid "Uncategorized"
-msgstr "Sin categorizar"
+msgstr "Sin categoría"
 
 # @ woocommerce
 #: includes/wc-user-functions.php:52
@@ -10398,7 +10399,7 @@ msgstr "Mostrar el carrito del usuario en la barra lateral (sidebar)."
 # @ woocommerce
 #: includes/widgets/class-wc-widget-cart.php:27
 msgid "WooCommerce Cart"
-msgstr "Carrito"
+msgstr "Carrito WooCommerce"
 
 # @ woocommerce
 #: includes/widgets/class-wc-widget-cart.php:31
@@ -10432,7 +10433,7 @@ msgstr "Filtros Activados"
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:93
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:98
 msgid "Remove filter"
-msgstr "Eliminar filtre"
+msgstr "Eliminar filtro"
 
 # @ woocommerce
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:93
