@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.10\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-06-25 09:58+0100\n"
-"PO-Revision-Date: 2015-06-29 12:20+0100\n"
-"Last-Translator: Auriana <legionmanonegra@gmail.com>\n"
+"PO-Revision-Date: 2015-07-01 16:31+0100\n"
+"Last-Translator: Imagonem <info@imagonem.com>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.6.4\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -9969,12 +9969,12 @@ msgstr "Peso Colombiano"
 # @ woocommerce
 #: includes/wc-core-functions.php:268
 msgid "Czech Koruna"
-msgstr "Koruna Checa"
+msgstr "Corona Checa"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:269
 msgid "Danish Krone"
-msgstr "Danish Krone"
+msgstr "Corona Danesa"
 
 #: includes/wc-core-functions.php:270
 msgid "Dominican Peso"
@@ -9998,12 +9998,12 @@ msgstr "Kuna Croata"
 # @ woocommerce
 #: includes/wc-core-functions.php:274
 msgid "Hungarian Forint"
-msgstr "Hungarian Forint"
+msgstr "Florín Húngaro"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:275
 msgid "Icelandic krona"
-msgstr "Krona Islandés"
+msgstr "Corona Islandesa"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:276
@@ -10022,7 +10022,7 @@ msgstr "Rupia Nepalí"
 # @ woocommerce
 #: includes/wc-core-functions.php:279
 msgid "Israeli Shekel"
-msgstr "Israeli Shekel"
+msgstr "Shekel Israelí"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:280
@@ -10031,7 +10031,7 @@ msgstr "Yen Japonés"
 
 #: includes/wc-core-functions.php:281
 msgid "Lao Kip"
-msgstr "Lao Kip"
+msgstr "Kip de Lao"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:282
@@ -10056,12 +10056,12 @@ msgstr "Naira Nigeriano"
 # @ woocommerce
 #: includes/wc-core-functions.php:286
 msgid "Norwegian Krone"
-msgstr "Norwegian Krone"
+msgstr "Corona Noruega"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:287
 msgid "New Zealand Dollar"
-msgstr "Dolar Neozelandes"
+msgstr "Dolar Neozelandés"
 
 #: includes/wc-core-functions.php:288
 msgid "Paraguayan Guaraní"
@@ -10070,12 +10070,12 @@ msgstr "Guaraní Paraguayo"
 # @ woocommerce
 #: includes/wc-core-functions.php:289
 msgid "Philippine Pesos"
-msgstr "Philippine Pesos"
+msgstr "Pesos Filipinos"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:290
 msgid "Polish Zloty"
-msgstr "Polish Zloty"
+msgstr "Zloty Polaco"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:291
@@ -10105,22 +10105,22 @@ msgstr "Rand Sudafricano"
 # @ woocommerce
 #: includes/wc-core-functions.php:296
 msgid "Swedish Krona"
-msgstr "Swedish Krona"
+msgstr "Corona Sueca"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:297
 msgid "Swiss Franc"
-msgstr "Swiss Franc"
+msgstr "Franco Suizo"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:298
 msgid "Taiwan New Dollars"
-msgstr "Taiwan New Dollars"
+msgstr "Nuevos Dólares Taiwaneses"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:299
 msgid "Thai Baht"
-msgstr "Thai Baht"
+msgstr "Baht Tailandés"
 
 # @ woocommerce
 #: includes/wc-core-functions.php:300
@@ -10260,7 +10260,7 @@ msgstr "Ordenar por popularidad"
 # @ woocommerce
 #: includes/wc-template-functions.php:641
 msgid "Sort by average rating"
-msgstr "Ordenar por media de puntuación"
+msgstr "Ordenar por media de calificación"
 
 # @ woocommerce
 #: includes/wc-template-functions.php:642
@@ -10538,7 +10538,7 @@ msgstr "Precio máximo"
 # @ woocommerce
 #: includes/widgets/class-wc-widget-price-filter.php:170
 msgid "Filter"
-msgstr "Filtro"
+msgstr "Filtrar"
 
 # @ woocommerce
 #: includes/widgets/class-wc-widget-price-filter.php:172
@@ -11736,7 +11736,7 @@ msgstr "Añadir un comentario"
 # @ woocommerce
 #: templates/single-product-reviews.php:60
 msgid "Be the first to review"
-msgstr "Sé el primero en opinar"
+msgstr "Se el primero en opinar sobre"
 
 #: templates/single-product-reviews.php:61
 msgid "Leave a Reply to %s"
